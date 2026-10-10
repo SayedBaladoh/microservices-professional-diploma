@@ -29,6 +29,7 @@ Sessions 26–28 are **gate reviews**, not lectures. The building happens in you
 
 ## Materials in this folder
 
+- [`CAPSTONE-GATES.md`](CAPSTONE-GATES.md) — exactly what to show at each gate (S26–S29).
 - [`Capstone_Project_Brief_Trainees.pdf`](Capstone_Project_Brief_Trainees.pdf) — the full trainee handbook (binding document).
 - [`Session_25_Capstone_TeamFormation.pdf`](Session_25_Capstone_TeamFormation.pdf) — kickoff slides.
 - Gate sessions (S26–S29) are run from the Capstone Brief and your own repositories; no slide decks are needed.

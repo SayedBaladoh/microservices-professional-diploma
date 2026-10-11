@@ -1,1 +1,28 @@
-Creative Commons Attribution-NonCommercial 4.0 (CC BY-NC 4.0)
+Microservices Course — Spring Boot & Spring Cloud · Professional Edition
+Copyright (c) 2026 ITSharks — IT Learning & Training Center, and Dr. ElSayed Mohamed Elsayed Baladoh
+
+Creative Commons Attribution-NonCommercial 4.0 International (CC BY-NC 4.0)
+
+You are free to:
+  - Share: copy and redistribute the material in any medium or format
+  - Adapt: remix, transform, and build upon the material
+
+Under the following terms:
+  - Attribution: you must give appropriate credit (ITSharks — IT Learning & Training
+    Center, "Microservices Course — Spring Boot & Spring Cloud · Professional Edition"),
+    provide a link to the license, and indicate if changes were made.
+  - NonCommercial: you may not use the material for commercial purposes, including
+    selling it or using it in paid training without written permission from the
+    copyright holders.
+  - No additional restrictions: you may not apply legal terms or technological
+    measures that legally restrict others from doing anything the license permits.
+
+Summary:   https://creativecommons.org/licenses/by-nc/4.0/
+Legal code: https://creativecommons.org/licenses/by-nc/4.0/legalcode
+
+Scope: this license covers the course materials in this repository (slides, tutorials,
+guides and documents). The platform source code is licensed separately in the
+microservices-pro-platform repository.
+
+Third-party names (Spring, Kubernetes, Docker, Kafka, Keycloak, Istio, k6, etc.) are
+trademarks of their respective owners and are used here for identification only.

@@ -18,7 +18,8 @@ Every session, lab and quiz serves that question. Frameworks are tools; **engine
 | Sessions | 29 |
 | Total time | ≈ 80 hours |
 | Offline anchor days | 4 × 5 h — Sessions **1, 9, 17, 25** (Wednesday 10:00 AM–3:00 PM) |
-| Online sessions | 25 × 2.5 h (Monday / Wednesday 3:00–5:30 PM) |
+| Offline final day | Session **29** — final presentations and oral Q&A (5 h) |
+| Online sessions | 24 × 2.5 h (Monday / Wednesday 3:00–5:30 PM) |
 | Phases | 4 (≈ 20 h each) |
 | Duration | ≈ 15 weeks at two sessions per week — see [COURSE-SCHEDULE.md](COURSE-SCHEDULE.md) |
 | Project | One Enterprise E-Commerce Platform |

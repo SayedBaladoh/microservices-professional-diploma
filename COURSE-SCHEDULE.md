@@ -7,7 +7,7 @@
 | Session 1 | Wednesday, offline (in person), 10:00 AM–3:00 PM |
 | Every other session | Monday and Wednesday, online, 3:00–5:30 PM |
 | Anchor days (offline, 5 h) | Sessions **1, 9, 17, 25** — always Wednesday, 10:00 AM–3:00 PM |
-| Final session | Session 29, offline anchor-style final presentation day |
+| Final session | Session 29 — offline, 5 h: team presentations, live demo and individual oral Q&A |
 | Total length | ≈ 15 weeks (two sessions per week) |
 
 Session 9 is followed by the **Mid-Course Exam** on the same day (see [ASSESSMENT.md](ASSESSMENT.md)).

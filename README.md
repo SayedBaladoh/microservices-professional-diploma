@@ -7,7 +7,7 @@
 | | |
 |---|---|
 | **Format** | 29 sessions · ≈ 80 hours · 4 phases |
-| **Delivery** | 4 offline anchor days (5 h, Wednesday) + 25 online sessions (2.5 h, Monday / Wednesday, 3:00–5:30 PM) |
+| **Delivery** | 5 offline days (5 h, Wednesday: anchor days S1, S9, S17, S25 + the final day S29) + 24 online sessions (2.5 h, Monday / Wednesday, 3:00–5:30 PM) |
 | **Project** | One Enterprise E-Commerce Platform, built session by session (S1–S24), then rebuilt in final form by teams (S25–S29) |
 | **Language** | English materials · Arabic / English instruction |
 

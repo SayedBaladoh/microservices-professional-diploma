@@ -53,6 +53,8 @@ Non-functional targets: P95 < 200 ms on cached product reads and < 800 ms on ord
 **Never cut:** tests, security rules, the compensation path, deployment.
 Tell the trainer early: an Amber with a plan is fine; a silent Red is not.
 
+What to show at each gate: [sessions/phase-4-capstone/CAPSTONE-GATES.md](sessions/phase-4-capstone/CAPSTONE-GATES.md).
+
 ## 5. Technology levels
 
 | Level | Meaning |
